@@ -1,1 +1,56 @@
+repository: a3ws/MuC2022
+title: A3WS – eHMIs
+email: "mathias.haimerl@thi.de"
+description: "Accessible Automated Automotive Workshop Series (A3WS) – Focus External Human-Machine Interfaces (eHMIs)."
+
+
 theme: jekyll-theme-slate
+search: true
+
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Berlin
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  bio: >-
+    **A**ccessible **A**utomated **A**utomotive **W**orkshop **S**eries – Focus **E**xternal **H**uman-**M**achine **I**nterfaces.
+    *In conjunction with [MuC 2022](https://muc2022.mensch-und-computer.de/de/)
+
+announcement: "[Call for Contributions open **NOW**!]https://muc2022.mensch-und-computer.de/de/cfp-de/){: .align--left .btn .btn--info .btn--large }"
+
+footer:
+  links:
+    - label: "Imprint"
+      icon: "fa fa-fw fa-info"
+      url: "/Imprint/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
