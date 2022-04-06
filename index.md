@@ -24,18 +24,24 @@ The aim is to create new interdisciplinary networks and collaborations to make f
 ---
 
 <div lang="de">
-<img src="https://flagcdn.com/32x24/de.png" width="32" height="24" alt="Deutsch" />
+    <img src="https://flagcdn.com/32x24/de.png" width="32" height="24" alt="Deutsch" />
 
-Die Verkehrswende führt zu einer laufenden Modernisierung des gesamten Verkehrs.
-Dadurch ist ein erhöhtes Aufkommen von automatisierten Fahrzeugen (AVs) zu erwarten.
-Diese müssen ihre Intentionen an andere Verkehrsteilnehmer kommunizieren, wofür im Bereich Maschine-zu-Mensch-Kommunikation (V2H) der Einsatz von externen Mensch-Maschine-Schnittstellen (eHMIs) als adäquate Lösung scheint.
-
-Obwohl die Forschung im Automotive-Bereich sehr schnell fortschreitet, ist die Inklusion von Menschen mit Einschränkungen (PSN) im gesamten Bereich unterrepräsentiert.
-In einer alternden Gesellschaft, befördert durch den demografischen Wandel und Fortschritten im medizinischen Sektor und mit wachsendem Bewusstsein für Inklusion und Barrierefreiheit, müssen die Bedürfnisse dieser Gruppen auch im Automotive-Bereich betrachtet werden.
-
-Wir stellen eine inklusive Plattform bereit, mit der wir einen interdisziplinären Austausch aktueller und zukünftiger Themen ermöglichen wollen, nicht nur für die akademische Welt, sondern im speziellen auch für Industrie und Politik.
-Damit wollen wir verschiedene Perspektiven auf die speziellen (aber nicht ausschließlichen) Themen User Experience (UX) und Psychologie, Produkt Design und rechtliche Faktoren eröffnen, dadurch Kommunikationskanäle öffnen und potenziell neue Themenbereiche erschließen.
-Das zentrale Ziel ist die Erschließung interdisziplinärer Netzwerke und Kollaborationen, um zukünftige Entwicklungen der Fahrzeug-Mensch-Kommunikation (V2H) inklusiver zu gestalten.
-
-**Anmerkung:** Alle Teilnehmer sind eingeladen ein *Position Paper* oder ein Abstract für einen *Lightning Talk* bereits vor dem Workshop einzusenden. Details hierzu unter [Participate](/Participate).
+    <p>
+    Die Verkehrswende führt zu einer laufenden Modernisierung des gesamten Verkehrs.
+    Dadurch ist ein erhöhtes Aufkommen von automatisierten Fahrzeugen (AVs) zu erwarten.
+    Diese müssen ihre Intentionen an andere Verkehrsteilnehmer kommunizieren, wofür im Bereich Maschine-zu-Mensch-Kommunikation (V2H) der Einsatz von externen Mensch-Maschine-Schnittstellen (eHMIs) als adäquate Lösung scheint.
+    </p>
+    
+    <p>
+    Obwohl die Forschung im Automotive-Bereich sehr schnell fortschreitet, ist die Inklusion von Menschen mit Einschränkungen (PSN) im gesamten Bereich unterrepräsentiert.
+    In einer alternden Gesellschaft, befördert durch den demografischen Wandel und Fortschritten im medizinischen Sektor und mit wachsendem Bewusstsein für Inklusion und Barrierefreiheit, müssen die Bedürfnisse dieser Gruppen auch im Automotive-Bereich betrachtet werden.
+    </p>
+    
+    <p>
+    Wir stellen eine inklusive Plattform bereit, mit der wir einen interdisziplinären Austausch aktueller und zukünftiger Themen ermöglichen wollen, nicht nur für die akademische Welt, sondern im speziellen auch für Industrie und Politik.
+    Damit wollen wir verschiedene Perspektiven auf die speziellen (aber nicht ausschließlichen) Themen User Experience (UX) und Psychologie, Produkt Design und rechtliche Faktoren eröffnen, dadurch Kommunikationskanäle öffnen und potenziell neue Themenbereiche erschließen.
+    Das zentrale Ziel ist die Erschließung interdisziplinärer Netzwerke und Kollaborationen, um zukünftige Entwicklungen der Fahrzeug-Mensch-Kommunikation (V2H) inklusiver zu gestalten.
+    </p>
+    
+    <p>**Anmerkung:** Alle Teilnehmer sind eingeladen ein *Position Paper* oder ein Abstract für einen *Lightning Talk* bereits vor dem Workshop einzusenden. Details hierzu unter [Participate](/Participate).</p>
 </div>
