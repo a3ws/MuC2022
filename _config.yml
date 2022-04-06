@@ -4,7 +4,7 @@ email: "mathias.haimerl@thi.de"
 description: "Accessible Automated Automotive Workshop Series (A3WS) – Focus External Human-Machine Interfaces (eHMIs)."
 
 
-theme: jekyll-theme-slate
+minimal_mistakes_skin: default
 search: true
 
 permalink: /:categories/:title/
