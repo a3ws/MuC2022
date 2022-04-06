@@ -1,0 +1,13 @@
+main:
+  - title: "Participate"
+    url: /Participate
+  - title: "Schedule"
+    url: /Schedule
+  - title: "Background"
+    url: /Background/
+#  - title: "Outcome"
+#    url: /Outcome/
+  - title: "Organizers"
+    url: /Organizers/
+  - title: "References"
+    url: /References/
