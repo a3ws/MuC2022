@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 <p> <span style="font-size: 1.5em">Accessible Automated Automotive Workshop Series (A3WS) – Focus External Human-Machine Interfaces (eHMIs)</span><br/>
-In conjunction with Mensch und Computer 2022, September 4-7, Virtual Conference.</p>
+In conjunction with Mensch und Computer 2022, September 4-7</p>
 
 
 With modernizing traffic, a rise of automated vehicles (AVs) is expected.
