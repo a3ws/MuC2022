@@ -32,7 +32,7 @@ Participants are invited to submit three-minute videos or position papers.
 Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop.
 **All accepted submissions will be published online** before the beginning of the workshop and in the workshop proceedings.
 The Paper format follows the ACM proceedings format and is provided for [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc), [LaTeX](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), and [Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx).
-The CCS-concepts can be removed. Lightning talks do not need to be submitted as PDF; an abstract in the Conftool suffices.
+The CCS-concepts can be removed. Lightning talks do only need to contain an abstract.
 
 ## Goals of the Workshop
 We intend to achieve the following goals with this workshop:
