@@ -6,6 +6,8 @@ classes: wide
 - __Connell1997__: <a name="connell1997"></a> BR Connell, M Jones, R Mace, J Mueller, A Mullick, E Ostroff, J Sanford, E Steinfeld, M Story, and G Vanderheiden. 1997. The principles of universal design, Version 2.0, Raleigh, NC. Center for Universal Design, North Carolina State University (1997).
 - __Hollaender2021__: <a name="hollaender2021"></a> Kai Holländer, Mark Colley, Enrico Rukzio,  and Andreas Butz: A Taxonomy of Vulnerable Road Users for HCI Based On A Systematic Literature Review. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21). Association for Computing Machinery (ACM), New York, NY, USA. 1–13. DOI: [10.1145/1122445.1122456](https://dx.doi.org/10.1145/1122445.1122456)
 
+
+
 <!--
 3. <a name="ref1"></a> Andrés Aparicio, Laura Sanz, Gary Burnett, Hans Stoll, Maxim Arbitmann, Martin Kunert, Fabian Flohr, Patrick Seiniger, and Dariu Gavrila. 2017. Advancing active safety towards the protection of vulnerable road users: the PROSPECT project. In 25th International Technical Conference on the Enhanced Safety of Vehicles (ESV) National Highway Traffic Safety Administration.
 4. <a name="ref2"></a> Felix Becker and Kay W Axhausen. 2017. Literature review on surveys investigating the acceptance of automated vehicles. Transportation 44, 6 (2017), 1293–1306.

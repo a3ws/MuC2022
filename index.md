@@ -19,7 +19,7 @@ We provide an inclusive platform for interdisciplinary exchange on current and f
 This enables different perspectives with particular (but not exclusive) regard to user experience (UX) and psychology, product design, legislative concerns and, thus, support the communication and potentially founding of new topic streams.
 The aim is to create new interdisciplinary networks and collaborations to make future developments on vehicle-to-human (V2H) communication more inclusive.
 
-**Note:** Participants are invited to submit a *position paper* or an abstract for a *lightning talk* before the workshop. See [Participate](/Participate) for more details.
+**Note:** Participants are invited to submit a *position paper* or an abstract for a *lightning talk* before the workshop. See [Participate](./Participate) for more details.
 
 ---
 
