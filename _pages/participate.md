@@ -4,10 +4,12 @@ title: "Participate"
 classes: wide
 sidebar:
 - title: "Deadlines"
-- text: "<ul><li><b>Submissions</b>:<br/> June 21th</li>
-  <li><b>Notifications</b>:<br/> July 1st</li>
-  <li><b>Camera-Ready Versions</b>:<br/>July 8th</li>
-  <li><b>Workshop Schedule</b>: see <a href='./Schedule'>Schedule</a></li></ul>"
+- text: "<ul>
+  <li><b>Late Submissions via Email</b>:<br /> July 29th</li>
+  <li><s>Submissions</s>:<br/> June 21th</li>
+  <li><s>Notifications</s>:<br/> July 1st</li>
+  <li>Camera-Ready Versions:<br/>July 8th</li>
+  <li>Workshop Schedule: see <a href='./Schedule'>Schedule</a></li></ul>"
 ---
 
 This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users.
@@ -17,16 +19,25 @@ interactive technologies for blind or deaf people, people with reduced mobility 
 We want to foster new ideas and approaches to make the future traffic more accessible, so anyone who wants to discuss ideas is welcome.
 
 ## Participation
+Late submissions will be reviewer by the workshop chairs and planned into the schedule.
+They will <em>not</em> be published in the conference proceedings, but online on this website, with its workshop results.
+
+<blockquote>
+<b>To participate via late submission, please send your title and abstract to <a href="mailto:mathias.haimerl@thi.de">the workshop chair</a>.</b>
+</blockquote>
+
+<s>
 You have three options for participation:
-* Submit a position paper
-* Submit an abstract for your lightning talk
-* Participate without presenting your position
+- Submit a position paper
+- Submit an abstract for your lightning talk
+- Participate without presenting your position
 
 Please register for the workshop via the [Mensch und Computer 2022 Conftool](https://www.conftool.com/muc2022/).
 1. After registration, you must validate your e-mail address and are provided with a password.
 1. Scroll down and select **MCI-WS09 - Accessible Automated Automotive Workshop Series (A3WS): Focus External Human-Machine Interfaces (eHMIs)**.
 1. You will be guided through the process.
-
+</s>
+  
 ## Contribution Submission
 Participants are invited to submit three-minute videos or position papers.
 Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop.
