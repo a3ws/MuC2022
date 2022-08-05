@@ -34,7 +34,7 @@ footer:
   links:
     - label: "Imprint"
       icon: "fa fa-fw fa-info"
-      url: "/Imprint/"
+      url: "/MuC2022/Imprint/"
 
 defaults:
   # _posts
