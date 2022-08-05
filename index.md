@@ -43,5 +43,5 @@ The aim is to create new interdisciplinary networks and collaborations to make f
     Das zentrale Ziel ist die Erschließung interdisziplinärer Netzwerke und Kollaborationen, um zukünftige Entwicklungen der Fahrzeug-Mensch-Kommunikation (V2H) inklusiver zu gestalten.
     </p>
     
-    <p><strong>Anmerkung:</strong> Alle Teilnehmer sind eingeladen ein *Position Paper* oder ein Abstract für einen <em>Lightning Talk</em> bereits vor dem Workshop einzusenden. Details hierzu unter <a href="./Participate">Participate</a>.</p>
+    <p><strong>Anmerkung:</strong> Alle Teilnehmer sind eingeladen ein <em>Position Paper</em> oder ein Abstract für einen <em>Lightning Talk</em> bereits vor dem Workshop einzusenden. Details hierzu unter <a href="./Participate">Participate</a>.</p>
 </div>
