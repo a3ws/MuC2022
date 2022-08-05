@@ -6,11 +6,11 @@ description: "Accessible Automated Automotive Workshop Series (A3WS) – Focus E
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: contrast
 search: true
-baseurl: /MuC2022/
+baseurl: /MuC2022
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Europe/Berlin
+#timezone: Europe/Berlin
 
 include:
   - _pages
